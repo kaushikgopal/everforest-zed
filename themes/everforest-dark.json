@@ -138,9 +138,9 @@
         "warning.border": null,
         "players": [
           {
-            "cursor": "#d3c6aa",
-            "selection": "#414b50",
-            "background": "#414b50"
+            "cursor": "#FF4685",
+            "selection": "#FF46855c",
+            "background": "#FF468530"
           }
         ],
         "syntax": {
