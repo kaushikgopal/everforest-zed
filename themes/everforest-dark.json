@@ -209,6 +209,11 @@
             "font_style": null,
             "font_weight": null
           },
+          "tag": {
+            "color": "#e67e80",
+            "font_style": "italic",
+            "font_weight": null
+          },
           "title": {
             "color": "#E67E80",
             "font_weight": 700
