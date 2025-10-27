@@ -209,6 +209,10 @@
             "font_style": null,
             "font_weight": null
           },
+          "title": {
+            "color": "#E67E80",
+            "font_weight": 700
+          },
           "type": {
             "color": "#7fbbb3",
             "font_style": null,
