@@ -13,3 +13,4 @@ Everforest is a green based color scheme; it's designed to be warm and soft in o
 - [Zed Themes](https://zed-themes.com/themes/edit) - use it for editing
 - [Syntax highlighting](https://zed.dev/docs/extensions/languages#syntax-highlighting)
 - [Zed One theme official](https://github.com/zed-industries/zed/blob/main/assets/themes/one/one.json) - nice and complete theme
+- [Original Everforest Theme](https://github.com/sainnhe/everforest) - for colors
