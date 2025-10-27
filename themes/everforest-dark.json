@@ -164,6 +164,9 @@
             "font_style": "italic",
             "font_weight": null
           },
+          "comment.doc": {
+            "font_weight": 700
+          },
           "function": {
             "color": "#a7c080",
             "font_style": null,
